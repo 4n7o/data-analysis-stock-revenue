@@ -1,4 +1,4 @@
-# data-analysis-stock-revenue
-Analyzing Historical Stock/Revenue Data and Building a Dashboard
+
+Analyzing Historical Stock/Revenue Performance (Tesla - GME)
 
 Final assignment of "Python Project for Data Science" - Coursera 
